@@ -2,6 +2,7 @@ Istruzioni per scaricare il gioco Squares Game:
 1. Eseguire il file eseguibile (.exe) scaricato in precedenza dal sito web del gioco (https://errrgiorgione.github.io/squares-game/). Potrebbe essere necessario garantire i privilegi d'amministratore all'eseguibile (vedi sotto).
 2. I file verranno automaticamente scaricati nelle relative cartelle. E' consigliato non toccare nessun tasto durante questa operazione.
 3. A fine download, una scheda nera dovrebbe avvisarvi che il download è terminato con successo. E' possibile chiudere la scheda nera e qualsiasi altra schermata si sia eventualmente aperta durante il download.
+4. E' possibile eliminare sia l'installer che le istruzioni una volta finite le procedura indicate in questo file.
 
 
 GARANTIRE I PRIVILEGI D'AMMINISTRATORE
@@ -11,4 +12,5 @@ Nel caso in cui l'eseguibile "installer.exe" dovesse riscontrare problemi con il
 
 
 RACCOMANDAZIONI
-E' consigliato aspettare qualche minuto tra un click e l'altro effettuato nel gioco, soprattutto al primo avvio (es. il click per aprire il file e il primo click per iniziare a giocare)
+E' consigliato aspettare qualche minuto tra un click e l'altro effettuato nel gioco, soprattutto al primo avvio (es. il click per aprire il file e il primo click per iniziare a giocare).
+E' fortemente sconsigliato ripetere le operazioni di download se il gioco è già stato scaricato in precedenza e non è stato eliminato, questo potrebbe avere ripercussioni sull'esperienza di gioco e sul dispositivo stesso.
